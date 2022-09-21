@@ -2,7 +2,7 @@
     background-color: rgb(242, 164, 208);
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
-
+/*why it did not work early was because # and . were mixed for id and selector*/
 #second {
     color: blue;
     font-size: 36px;
